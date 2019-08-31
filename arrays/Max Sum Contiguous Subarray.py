@@ -1,4 +1,4 @@
-def maxSubArray(self,A):
+def maxSubArray(A):
         max_end_here = 0
         max_so_far = -100000000          # assumed to be negetive infinity.
         max_sub_array = []
