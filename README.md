@@ -1,2 +1,2 @@
-# interview_bit
-this repository contains problems from www.interviewbit.com
+# Interview bit
+this repository contains problems from https://www.interviewbit.com/courses/programming/
